@@ -2,3 +2,8 @@ h1 {
     font-weight: bold;
     font-style: italic;
   }
+
+  .dark {
+    background-color: black;
+    color: white;
+  }
